@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aviral Patel</h1>
 <h3 align="center">A passionate Programmer and Developer based in Raipur, India.</h3>
 
-</style>
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=aviralpatel0526&label=Profile%20views&color=0e75b6&style=flat"
         alt="aviralpatel0526" /> </p>
