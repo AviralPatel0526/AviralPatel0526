@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aviral Patel</h1>
 <h3 align="center">A passionate Programmer and Developer based in Raipur, India.</h3>
-<style>
-    .techstack{
-        display: flex;
-        justify-content: space-evenly;
-    }
+
 </style>
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=aviralpatel0526&label=Profile%20views&color=0e75b6&style=flat"
@@ -30,7 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div class="techstack">
+<div>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         alt="css3" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
