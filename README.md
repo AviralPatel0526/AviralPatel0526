@@ -3,19 +3,14 @@
 
 
 
-### Hi there 👋
-[![An image of @aviralpatel0526's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aviralpatel0526)](https://holopin.io/@aviralpatel0526)
+### Hi, I'm Aviral Patel!
 
-**AviralPatel0526/AviralPatel0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Programmer and Developer based in Raipur, India. 📍
 
-Here are some ideas to get you started:
+- 🔭 I’m currently pursuing B-Tech in Information Technology from [National Institute of Technology, Raipur](https://nitrr.ac.in/).
+- 🌱 I’m currently learning (PERN) stack for full stack web development.
+- 📫 How to reach me: [Aviral Patel](https://www.linkedin.com/in/aviralpatel/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+![Aviral's Github Stats](https://github-readme-stats.vercel.app/api?username=AviralPatel0526&show_icons=true&theme=transparent)
 
