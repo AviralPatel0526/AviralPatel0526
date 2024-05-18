@@ -1,5 +1,5 @@
 ### Hi, I'm Aviral Patel!
-
+<img src="https://komarev.com/ghpvc/?username=AviralPatel0526&label=Profile%20views&color=0e75b6&style=flat" alt="AviralPatel0526" />
 A passionate Programmer and Developer based in Raipur, India. 📍
 
 - 🔭 I’m currently pursuing B-Tech in Information Technology from [National Institute of Technology, Raipur](https://nitrr.ac.in/).
@@ -25,5 +25,5 @@ A passionate Programmer and Developer based in Raipur, India. 📍
 ### 🧑‍🦱 Certifications
 <p>
 <img src="https://media.licdn.com/dms/image/D4D22AQEimbyX3Uu58Q/feedshare-shrink_2048_1536/0/1693590390064?e=1718841600&v=beta&t=RoPM-G9VVt5aBrZIseFo61MhZKo8uZoWM7Z9fZfQEmI" alt="TCP 30 Days Of Code" height="300">
-<img src="https://media.licdn.com/dms/image/D4D22AQFxcaYv2xhoOA/feedshare-shrink_2048_1536/0/1698586706646?e=1718841600&v=beta&t=lBSaZCEiGaeebO4TawS4R_zLwsuWnDWMJtT4AhJTAaw" alt="TCP 30 Days Of Code" height="300">
+<img src="https://media.licdn.com/dms/image/D4D22AQFxcaYv2xhoOA/feedshare-shrink_2048_1536/0/1698586706646?e=1718841600&v=beta&t=lBSaZCEiGaeebO4TawS4R_zLwsuWnDWMJtT4AhJTAaw" alt="HactoberFest" height="300">
 </p>
