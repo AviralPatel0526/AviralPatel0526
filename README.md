@@ -21,3 +21,7 @@ A passionate Programmer and Developer based in Raipur, India. 📍
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🧑‍🦱 Certifications
+<img src="https://media.licdn.com/dms/image/D4D22AQEimbyX3Uu58Q/feedshare-shrink_2048_1536/0/1693590390064?e=1718841600&v=beta&t=RoPM-G9VVt5aBrZIseFo61MhZKo8uZoWM7Z9fZfQEmI" alt="TCP 30 Days Of Code" height="300">
+<img src="https://media.licdn.com/dms/image/D4D22AQFxcaYv2xhoOA/feedshare-shrink_2048_1536/0/1698586706646?e=1718841600&v=beta&t=lBSaZCEiGaeebO4TawS4R_zLwsuWnDWMJtT4AhJTAaw" alt="TCP 30 Days Of Code" height="250">
