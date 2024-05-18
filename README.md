@@ -23,5 +23,7 @@ A passionate Programmer and Developer based in Raipur, India. 📍
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🧑‍🦱 Certifications
+<p>
 <img src="https://media.licdn.com/dms/image/D4D22AQEimbyX3Uu58Q/feedshare-shrink_2048_1536/0/1693590390064?e=1718841600&v=beta&t=RoPM-G9VVt5aBrZIseFo61MhZKo8uZoWM7Z9fZfQEmI" alt="TCP 30 Days Of Code" height="300">
-<img src="https://media.licdn.com/dms/image/D4D22AQFxcaYv2xhoOA/feedshare-shrink_2048_1536/0/1698586706646?e=1718841600&v=beta&t=lBSaZCEiGaeebO4TawS4R_zLwsuWnDWMJtT4AhJTAaw" alt="TCP 30 Days Of Code" height="250">
+<img src="https://media.licdn.com/dms/image/D4D22AQFxcaYv2xhoOA/feedshare-shrink_2048_1536/0/1698586706646?e=1718841600&v=beta&t=lBSaZCEiGaeebO4TawS4R_zLwsuWnDWMJtT4AhJTAaw" alt="TCP 30 Days Of Code" height="300">
+</p>
