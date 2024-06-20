@@ -24,6 +24,6 @@ A passionate Programmer and Developer based in Raipur, India. 📍
 
 ### 🧑‍🦱 Certifications
 <p>
-<img src="https://media.licdn.com/dms/image/D4D22AQEimbyX3Uu58Q/feedshare-shrink_2048_1536/0/1693590390064?e=1718841600&v=beta&t=RoPM-G9VVt5aBrZIseFo61MhZKo8uZoWM7Z9fZfQEmI" alt="TCP 30 Days Of Code" height="200">
-<img src="https://media.licdn.com/dms/image/D4D22AQFxcaYv2xhoOA/feedshare-shrink_2048_1536/0/1698586706646?e=1718841600&v=beta&t=lBSaZCEiGaeebO4TawS4R_zLwsuWnDWMJtT4AhJTAaw" alt="HactoberFest" height="200">
+  <img src="https://media.licdn.com/dms/image/D4D22AQEimbyX3Uu58Q/feedshare-shrink_2048_1536/0/1693590390064?e=1721865600&v=beta&t=Pl8W62xefFgdgJ2V0r2nuXHJz5CZofs-qTbfQCwYWtk" alt="TCP 30 Days Of Code" width="300" height="200">
+  <img src="https://media.licdn.com/dms/image/D4D22AQFxcaYv2xhoOA/feedshare-shrink_2048_1536/0/1698586706646?e=1721865600&v=beta&t=--bsIWN_EiBIVYvDsh4u6O56UKqFrVOy6laFZJ2eEf4" alt="HactoberFest" width="300" height="200">
 </p>
